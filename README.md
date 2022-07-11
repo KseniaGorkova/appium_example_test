@@ -1,2 +1,2 @@
 # appium_example_test
-Example test
+Test automation example for mobile application Wikipedia
